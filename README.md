@@ -18,3 +18,5 @@ C. attention usage:
 
 2. python main.py
 
+姓名：赵文昊
+学号：20184584
