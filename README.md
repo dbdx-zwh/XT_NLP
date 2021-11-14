@@ -12,6 +12,8 @@ A. requirement:
 
 B. LSTM usage:  python LSTMLM.py
 
+注：多层只需要修改LSTMLM.py文件中的n_layer参数即可
+
 C. attention usage:
 
 1. python prework.py
